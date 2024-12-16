@@ -1,0 +1,15 @@
+Name: Otto Lars
+Occupation: Chef
+Age: 41
+Special Item: Screwdriver
+
+Strengths:
+
+Extremely efficient with meat cleaver
+Carries a meat cleaver
+Resistant to damage
+
+Weaknesses:
+
+Slow running speed
+Does not carry a flashlight

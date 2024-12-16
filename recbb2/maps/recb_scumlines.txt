@@ -1,0 +1,65 @@
+RECB_SCUMLINES
+Compiled: 07-05-2006
+Map Author: Shoot_me (aybnetwork.com)
+======================================
+
+
+::::::::::::::::::::: Story
+
+The streets are no longer safe, but it’s not like there’s such a thing as safe anymore, anyway.  Unfortunately, the sewers don’t seem to be much of an improvement.  The zombies just keep coming, despite everyone nearly using up all the remaining ammunition.  Armed with a couple pistols and whatever can be swung at these relentless pursuers, everyone is starting to lose hope, if there ever was any to begin with.  The number of people in the little group that had formed from pockets of survivors scattered across the city has been dwindling in numbers, quickly… and not voluntarily.  
+
+The stench in the sewers is getting stronger now.  It’s enough to burn the hairs in one's nose.  Amid the dizzying foulness, the familiar clicking noise of claws against the concrete floor can be heard over the flowing water… they’re here.
+
+::::::::::::::::::::: Objectives
+
+You can’t go back, opening the door behind you would be suicide.  No one in your group knows what’s ahead, or at least no one is letting on to such knowledge, but it looks like everyone is going to have to go deeper into the sewers before an exit can be found.  One thing to remember; the zombies don’t stay down for long.  Going back to a room could stir them all back up again.  With a finite amount of ammunition, this could prove to be a problem if anyone decides to start back-tracking.
+
+::::::::::::::::::::: Credits
+
+---MAP
+Structure : Shoot_me
+Textures : VALVe, Marc Schroder (Poke646 textures)
+Detail Textures: Shoot_me
+Music: Capcom
+--MOD
+
+Ackart The Fox : Public relations, co-leader, site manager, texture artist
+Civilian Soldier : Modeller
+Black Vault : Modeller
+Enix : Modeller, skinner
+RageUnleashed : Modeller, skinner
+Minuit : Modeller, skinner, animator, coder, mapper
+Yngndrw : Coder
+Mathew : Coder
+Chaossaber : Music composition, writer
+Jeebus McChrist : Writer
+Shoot_Me : Mapper
+RuMpel : Mapper, skinner
+Maistro : Sound Artist
+MaXer - RPD police body and skin.
+Fat_Al : Face texture contribution
+Mr Hankey : Coding contribution
+Toadie : Animations, UV mapping
+Sureshot : Modelling, skinning
+Flamewave : Music composition
+Captain-Schrotti : Sound Artist
+iNDIANA : Texture artist, website designer, graphics artist
+Poke646 team : Textures
+dtex_asylum_01.wad - Schwenz
+st.louis.wad - Locknut
+hh3_clockwork.wad - Rorschach
+r1.wad - Uknown. If you are the author of this wad, please contact us.
+Mwgedd : modelling
+Ep!demic - Voice acting
+H4wk - skinning
+Termin8tor - Web hosting, mapping
+Neo Vortigaunt - Mapping, animating
+Rayne - Coding
+Aydin - Skinning
+BarneyInBlue - Modelling, skinning contribution
+Wolf-Kain - RE:CB Mascot
+R2drigo - Bailing Minuit out of countless coding problems
+Ranger Six - Modelling
+Quad - Coding, modelling, skinning
+Technoblue - Installation program creation
+

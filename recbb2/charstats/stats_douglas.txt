@@ -1,0 +1,14 @@
+Name: Douglas Bowman
+Occupation: Accountant
+Age: 51
+Special Item: Sidepack
+
+Strengths:
+
+Carries an extra ink ribbon
+Carries a flashlight
+
+Weaknesses:
+
+Vulnerable to damage
+Moderately slow running speed

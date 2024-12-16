@@ -1,0 +1,32 @@
+P R I M E P O W E R ( P R P ) i s available for an unlimited
+number of annual operating hours in variable load applications,
+in accordance with ISO8528-1. A 10% overload capability is
+available for a period of 1 hour within a 12-hour period of
+operation, in accordance with ISO 3046-1.
+
+E M E R G E N C Y S T A N D B Y POWER (ESP) is applicable for
+supplying emergency power for the duration of a utility power
+interruption. No overload, utility parallel or negotiated outage
+operation capability is available at this rating.
+
+
+All ratings are based on the following reference conditions:
+- Ambient temperature – 27°C
+- Altitude above sea level –150m
+- Relative humidity – 60%
+
+
+Notes:
+
+Frank, this isn't the main generator switch, and that needs to
+be addressed to the rest of your employees. This switch is for
+the SECONDARY power source. Killing this will NOT kill all power
+in the event of an emergency, although it will shut down localised
+power for the tracks, as well as lights wired to the old circuit
+system. Use this in the following situations:
+
+- Fatality on the railway or injury
+- Workers need to navigate the local track area
+- Emergency situation where train collision is possible
+
+Do NOT use in a terrorist alert.

@@ -1,0 +1,17 @@
+Name: Simon Court
+Occupation: Florist
+Age: 20
+Special Item: N/A
+
+Strengths:
+
+Carries Red Herb
+Carries Blue Herb
+Carries Green Herb
+Extremely efficient in their usage
+Carries a Flashlight
+
+Weaknesses:
+
+Allergic to first aid sprays
+Extremely slow

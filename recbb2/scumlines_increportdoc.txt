@@ -1,0 +1,7 @@
+FROM    : s.johnson02@unbrella_RD.net
+TO      : groupaccount_administration@unbrella_ADMIN.net
+SUBJECT : Incident report follow up
+
+It appears that a nominal number of the staff and a handful of the security dogs were exposed to one of the chemicals there were sent down from upstairs.  Luckily, the chemical containers weren’t being stored in the cage room again.  It seems that some of the higher-ups wanted another demonstration and nearly overloaded the whole system again.  One spark from the emitter could have ignited the containers and would have made a bad situation worse.  Though, the overload prevented the maintenance crew from sealing off the affect areas, which is the cause for the high number of affected personnel.  During transport from upstairs, one or more of the containers were damaged and developed a leak while being stored in one of the lower level transfer rooms.  The ventilation system in that area has been isolated and contamination into the adjoining sewer system has been minimized as much as possible.  I have made sure that all of the cleanup procedures have been followed, but one thing still bothers me…
+
+… every attempt to find more information about these chemicals has ended in a dead end.  Nearly all the information for anything sent down from the main lab for the past three months has been classified.  We’re not dealing with yet another government contract again, are we?

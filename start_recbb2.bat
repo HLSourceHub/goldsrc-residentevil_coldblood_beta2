@@ -1,0 +1,1 @@
+hl.exe -game recbb2 -num_edicts 2048 -console

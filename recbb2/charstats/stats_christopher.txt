@@ -1,0 +1,15 @@
+Name: Christopher McCaleb
+Occupation: Police Officer
+Age: 25
+Special Item: Desert Eagle Parts
+
+Strengths:
+
+Carries a Type 68 pistol with 2 extra clips
+Is efficient with pistols
+Carries a flashlight
+
+Weaknesses:
+
+Moderately slow running speed
+Very inefficient with healing items

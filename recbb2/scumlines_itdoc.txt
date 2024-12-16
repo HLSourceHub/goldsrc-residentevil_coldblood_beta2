@@ -1,0 +1,16 @@
+SUBJECT :   ___Security room __Passwords.
+FROM    :        IT DEPT. 
+ 
+The database containing all staff login information was lost 
+when the relay overload damaged the server.  A new server 
+has been installed and the most recent backup of the database 
+has been uploaded to minimize downtime.  
+
+If you discover any account which had previously been disabled 
+or removed please notify a member of the IT staff immediately as 
+this will pose a security risk.
+
+As a reminder, the global pass code to gain access to the security 
+room has been changed to 91 72059.  A new pass code will be 
+assigned in 90 days.  Make certain that all security staff are notified 
+before the old pass code is disabled.

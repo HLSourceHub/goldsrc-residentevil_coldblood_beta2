@@ -1,0 +1,10 @@
+recb_mall
+recb_desperation
+recb_subway
+recb_streets
+recb_scumlines
+recb_labs
+recb_prisoncity
+recb_darkwoods
+recb_mansion
+recb_foresttrail

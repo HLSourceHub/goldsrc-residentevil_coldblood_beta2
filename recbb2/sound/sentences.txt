@@ -1,0 +1,172 @@
+// SPIRIT OF HALF-LIFE: SPEECH SYSTEM SENTENCES. Max of 1536 sentences and 200 sentence groups.
+// (1051 sentences and 114 groups are defined in the file as distributed.)
+// To test sentence FOO, try typing "/speak !FOO" at the console.
+
+// (pX): set pitch = X percent of normal. (higher numbers = higher pitch)
+// (tX): set 'pause between words' = 100-X percent of normal? (t0 = full pause, t100 = no pause)
+// (vX): set volume = X percent of normal.
+// (sX): start the sound X percent of the way through.
+// (eX): stop the sound X percent of the way through.
+
+// RE:CB Scripted Sequences
+
+// Forest Trail Ambience
+
+FOR0 mapspecific/foresttrail/ambient/(v95) fox_cry
+FOR1 mapspecific/foresttrail/ambient/(v95) fox_cry2
+FOR2 mapspecific/foresttrail/ambient/(v95) owl_hoot
+FOR3 mapspecific/foresttrail/ambient/(v95) owl_hoot2
+FOR4 mapspecific/foresttrail/ambient/(v95) thunder1
+FOR5 mapspecific/foresttrail/ambient/(v95) thunder2
+FOR6 mapspecific/foresttrail/ambient/(v95) thunder3
+FOR7 mapspecific/foresttrail/ambient/(v95) thunder4
+
+// Mall Survivor
+INTRO_SPEECH intro/zspeech
+SUICIDE_SPEECH intro/gdamnit
+
+// Policeman NPCuzzzzzzzzz
+
+// Scripted Sequences
+COP_BUS_DCLINE1 cop/speech_bus_decline1
+COP_BUS_DCLINE2 cop/speech_bus_decline2
+COP_BUS_DCLINE3 cop/speech_bus_decline3
+COP_BUS_DCLINE4 cop/speech_bus_decline4
+COP_BUS_DCLINE5 cop/speech_bus_decline5
+COP_BUS_INTRO cop/speech_bus_intro
+COP_BUS_HLFWY1 cop/speech_bus_halfway1
+COP_BUS_HLFWY2 cop/speech_bus_halfway2
+COP_BUS_FIXED cop/speech_bus_fixed
+COP_BUS_OUTRO cop/speech_bus_outro
+
+// General stuff
+COP_FOLLOW1 cop/speech_follow1
+COP_FOLLOW2 cop/speech_follow2
+COP_FOLLOW3 cop/speech_follow3
+COP_FOLLOW4 cop/speech_follow4
+COP_FOLLOW5 cop/speech_follow5
+COP_FOLLOW6 cop/speech_follow6
+COP_FOLLOW7 cop/speech_follow7
+COP_FOLLOW8 cop/speech_follow8
+
+COP_WAITSAFE1 cop/speech_wait_safe1
+COP_WAITSAFE2 cop/speech_wait_safe2
+COP_WAITSAFE3 cop/speech_wait_safe3
+COP_WAITSAFE4 cop/speech_wait_safe4
+COP_WAITSAFE5 cop/speech_wait_safe5
+COP_WAITSAFE6 cop/speech_wait_safe6
+COP_WAITSAFE7 cop/speech_wait_safe7
+COP_WAITSAFE8 cop/speech_wait_safe8
+COP_WAITSAFE9 cop/speech_wait_safe9
+COP_WAITSAFE10 cop/speech_wait_safe10
+
+COP_WAITDANGER1 cop/speech_wait_danger1
+COP_WAITDANGER2 cop/speech_wait_danger2
+COP_WAITDANGER3 cop/speech_wait_danger3
+COP_WAITDANGER4 cop/speech_wait_danger4
+COP_WAITDANGER5 cop/speech_wait_danger5
+COP_WAITDANGER6 cop/speech_wait_danger6
+COP_WAITDANGER7 cop/speech_wait_danger7
+COP_WAITDANGER8 cop/speech_wait_danger8
+COP_WAITDANGER9 cop/speech_wait_danger9
+COP_WAITDANGER10 cop/speech_wait_danger10
+
+COP_HURTBYPLR1 cop/speech_hurt_player1
+COP_HURTBYPLR2 cop/speech_hurt_player2
+COP_HURTBYPLR3 cop/speech_hurt_player3
+COP_HURTBYPLR4 cop/speech_hurt_player4
+COP_HURTBYPLR5 cop/speech_hurt_player5
+COP_HURTBYPLR6 cop/speech_hurt_player6
+COP_HURTBYPLR7 cop/speech_hurt_player7
+COP_HURTBYPLR8 cop/speech_hurt_player8
+COP_HURTBYPLR9 cop/speech_hurt_player9
+COP_HURTBYPLR10 cop/speech_hurt_player10
+
+COP_IDLE1 cop/speech_idle1
+COP_IDLE2 cop/speech_idle2
+COP_IDLE3 cop/speech_idle3
+COP_IDLE4 cop/speech_idle4
+COP_IDLE5 cop/speech_idle5
+COP_IDLE6 cop/speech_idle6
+COP_IDLE7 cop/speech_idle7
+COP_IDLE8 cop/speech_idle8
+COP_IDLE9 cop/speech_idle9
+COP_IDLE10 cop/speech_idle10
+COP_IDLE11 cop/speech_idle11
+COP_IDLE12 cop/speech_idle12
+COP_IDLE13 cop/speech_idle13
+
+COP_KILLCRWLR1 cop/speech_killed_crawler1
+COP_KILLCRWLR2 cop/speech_killed_crawler2
+COP_KILLCRWLR3 cop/speech_killed_crawler3
+COP_KILLCRWLR4 cop/speech_killed_crawler4
+COP_KILLCRWLR5 cop/speech_killed_crawler5
+
+COP_KILLDG1 cop/speech_killed_dog1
+COP_KILLDG2 cop/speech_killed_dog2
+COP_KILLDG3 cop/speech_killed_dog3
+COP_KILLDG4 cop/speech_killed_dog4
+COP_KILLDG5 cop/speech_killed_dog5
+
+COP_KILLZMB1 cop/speech_killed_zombie1
+COP_KILLZMB2 cop/speech_killed_zombie2
+COP_KILLZMB3 cop/speech_killed_zombie3
+COP_KILLZMB4 cop/speech_killed_zombie4
+COP_KILLZMB5 cop/speech_killed_zombie5
+
+COP_KILLTYRNT1 cop/speech_killed_tyrant1
+COP_KILLTYRNT2 cop/speech_killed_tyrant2
+COP_KILLTYRNT3 cop/speech_killed_tyrant3
+COP_KILLTYRNT4 cop/speech_killed_tyrant4
+COP_KILLTYRNT5 cop/speech_killed_tyrant5
+
+COP_KILLHNTR1 cop/speech_killed_hunter1
+COP_KILLHNTR2 cop/speech_killed_hunter2
+COP_KILLHNTR3 cop/speech_killed_hunter3
+COP_KILLHNTR4 cop/speech_killed_hunter4
+COP_KILLHNTR5 cop/speech_killed_hunter5
+
+COP_KILLSPDR1 cop/speech_killed_spider1
+COP_KILLSPDR2 cop/speech_killed_spider2
+COP_KILLSPDR4 cop/speech_killed_spider4
+COP_KILLSPDR5 cop/speech_killed_spider5
+
+COP_PLRDIE1 cop/speech_player_die1
+COP_PLRDIE2 cop/speech_player_die2
+COP_PLRDIE3 cop/speech_player_die3
+COP_PLRDIE4 cop/speech_player_die4
+COP_PLRDIE5 cop/speech_player_die5
+
+COP_ALRIGHT cop/speech_random_alright
+COP_YES cop/speech_random_yes
+COP_NO cop/speech_random_no
+COP_THANKS cop/speech_random_thanks
+COP_DAMN cop/speech_random_damnit
+COP_FINE cop/speech_random_fine
+COP_THANKS2 cop/speech_random_thanksforthat
+
+COP_WOUND1 cop/speech_wound1
+COP_WOUND2 cop/speech_wound2
+COP_WOUND3 cop/speech_wound3
+COP_WOUND4 cop/speech_wound4
+COP_WOUND5 cop/speech_wound5
+
+COP_GREET1 cop/speech_greet1
+COP_GREET2 cop/speech_greet2
+COP_GREET3 cop/speech_greet3
+COP_GREET4 cop/speech_greet4
+COP_GREET5 cop/speech_greet5
+
+COP_PLAYERDAMAGE1 cop/speech_pdamage1
+COP_PLAYERDAMAGE2 cop/speech_pdamage2
+COP_PLAYERDAMAGE3 cop/speech_pdamage3
+COP_PLAYERDAMAGE4 cop/speech_pdamage4
+COP_PLAYERDAMAGE5 cop/speech_pdamage5
+
+//RE:CB Specific Ambience
+
+//Village
+VILAMB_0 mapspecific/village/thunder1
+VILAMB_1 mapspecific/village/thunder2
+VILAMB_2 mapspecific/village/thunder3
+VILAMB_3 mapspecific/village/thunder4

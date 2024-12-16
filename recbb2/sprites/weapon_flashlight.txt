@@ -1,0 +1,6 @@
+4
+weapon			320 320hud1	0	0	80	20
+weapon_s		320 320hud1	0	20	80	20
+weapon			640 maglite	0	0	170	45
+weapon_s		640 maglite	0	0	170	45
+ammo			640 640hud7	96	72	24	24

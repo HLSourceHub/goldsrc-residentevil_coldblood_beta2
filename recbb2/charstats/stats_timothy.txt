@@ -1,0 +1,14 @@
+Name: Timothy Johnson
+Occupation: Software Engineer
+Age: 32
+Special Item: PDA
+
+Strengths:
+
+Fast running speed
+Carries a first aid spray
+Carries a flashlight
+
+Weaknesses:
+
+Extremely vulnerable to damage

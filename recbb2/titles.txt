@@ -1,0 +1,1014 @@
+//TITLES FOR RESIDENT EVIL COLD BLOOD
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+
+
+//RECB PICKED UP ITEM TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 78 78 78
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+
+//RECB AD LIB STUFF
+menuoptions
+{
+Shout a command:
+1: Need Ammo
+2: Enemy spotted
+3: Follow me
+4: Need Health
+5: Help!
+6: Found item
+7: No
+8: Thanks
+9: Wait here
+0: Yes
+}
+
+menuoptions2
+{
+Shout a command:
+1: Take cover!
+2: Repeat that
+3: I think it's a trap
+4: Thoughts
+5: Taunt
+}
+
+// Characters
+char1
+{
+Otto Lars
+}
+
+char2
+{
+Christopher McCaleb
+}
+
+char3
+{
+Douglas Bowman
+}
+
+char4
+{
+USS Operative
+}
+
+char5
+{
+Jake Phillips
+}
+
+char6
+{
+James Dyson
+}
+
+char7
+{
+Timothy Johnson
+}
+
+char8
+{
+Simon Courte
+}
+
+
+//RECB PICKED UP ITEM TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 78 78 78
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+RECBDESP_WAREKEY
+{
+Player obtained item:
+Control room key
+A key for the Warehouse control room.
+}
+
+RECBDESP_GATEKEY
+{
+Player obtained item:
+Rope
+This rope can be used for the big hole.
+}
+
+RECBDESP_CHURCHKEY
+{
+Player obtained item:
+Church key
+It's a gate key - Raccoon Protestant Church is engraved.
+}
+
+RECBDESP_CAFEKEY
+{
+Player obtained item:
+Cafe key
+"Cafe - Eating area" - Presumably for the Cafe.
+}
+
+RECBDESP_END
+{
+With the zombie groans and monster howls echoing behind us,
+we slam the gate shut, seeking shelter in this Subway
+after narrowly slipping through the fingers of Death's
+icy grip.
+
+Little did we know, we were descending into a deeper
+depth of hell...
+}
+
+PRIS_KEY1
+{
+Player obtained item:
+Double door key
+A key for a set of doors
+}
+
+PRISBOX1
+{
+Player obtained item:
+Suspicious box
+A heavy old box. There's something inside
+}
+
+PRISCRANK
+{
+Player obtained item:
+Hexagonal crank
+Its end is hex shaped
+}
+
+PRISKEY2
+{
+Player obtained item:
+Alley key
+An official looking key. The tag says "alley"
+}
+
+PRISKEY4
+{
+Player obtained item:
+Gate key
+An official looking key. The tag says "Gate NW"
+}
+
+PRISKEY6
+{
+Player obtained item:
+Water flow keys
+The keys to the water flow control room in the sewer
+}
+
+PRISBUSE
+{
+Team found transport:
+An ordinary bus
+The gates are blocking our escape;
+We'll need to restore power.
+}
+
+PRISEND
+{
+After battling those creatures with little
+rest, we were exhausted. The bus was a
+shining beacon of hope for us. Expecting
+it to be dead like everything else in this
+town, we were surprised to find it in fully
+working order. We got the hell out of there...
+}
+
+MACRANK2
+{
+Player obtained item:
+Burnt Crank
+The crank is burnt but still usable
+}
+
+MALL77
+{
+Player obtained item:
+Sewer key
+It says sewer on the tag, so it must unlock the sewer door.
+}
+
+
+MAFIREP
+{
+It sounds like a fire went out nearby...
+}
+
+MAKEY2
+{
+Player obtained item:
+Blue-crystal
+A Blue-Crystal ornament.
+}
+
+MAKEY4
+{
+Player obtained item:
+Filthy Motel Key
+A blood covered key. The tag is broken
+}
+
+MAKEY5
+{
+Player obtained item:
+Backdoor Key
+A backdoor key. The number 1 is engraved
+}
+
+MAKEY6
+{
+Player obtained item:
+Backdoor Key
+A backdoor key. The number 2 is engraved
+}
+
+MAKEY7
+{
+Player obtained item:
+Basement key
+An ordinary key. Should unlock the basement door
+}
+
+MAKEY8
+{
+Player obtained item:
+Silver Sword
+Cannot be used as a weapon
+}
+
+MAMANHOLE
+{
+Player obtained item:
+Manhole Opener
+A manhole opener. Looks sturdy
+}
+
+MASLANG1
+{
+Player obtained item:
+Old hose
+A dirty hose. Looks usable though
+}
+
+
+MAEND
+{
+We hadn't got our hopes up about finding safety
+in the mansion, we know nowhere is safe.
+However, we hadn't expected the monsters to be so
+numerous in this secluded place. The danger only
+spurned us on and made us stronger, and now we're
+closer than ever to getting out of here. We're
+hoping that this lake will take us somewhere
+worthwhile so that we may finally get the hell out
+of this hellish place. We'd better get some rest first...
+}
+
+CBFTRAILMKIT
+{
+Player obtained item:
+Medical kit
+A medical kit. Wet but usable.
+}
+
+CBFTRAILBDKEY
+{
+Player obtained item:
+Warehouse backdoor key
+A backdoor key.
+}
+
+CBFTRAILKEY1
+{
+Player obtained item:
+Nondescript Key
+An old brass key.
+}
+
+CBMALLKEY1
+{
+Player obtained item:
+Backdoor Key
+Judging by the tag, it seems that this is for a backdoor.
+}
+
+CBMALLKEY2
+{
+Player obtained item:
+Security Key
+A key for a security office.
+}
+
+CBMALLKEY3
+{
+Player obtained item:
+Control room
+The control room key. Reads "Ctrl Rm. Lower Flr".
+}
+
+CBMALLKEY4
+{
+Player obtained item:
+Generic Key
+This is most likely the key for the door in the corner.
+}
+
+CBLOL
+{
+We'd come to the mall seeking shelter and safety, but it couldn't
+last forever. We said a few words for Alec and then geared up.
+We couldn't bury the corpse. After we'd got what we needed,
+we set off. We'd learned a valuable lesson;
+Nowhere is safe in Raccoon city...
+}
+
+FRSKEY1
+{
+Player obtained item:
+Brass Key
+An old looking Brass key. The oldness of the key is probably
+relative to the age of the lock.
+}
+
+FRSKEY2
+{
+Player obtained item:
+Mangled Key
+The key is mangled and bent. Fortunately, it should still work.
+}
+
+FRKEY2
+{
+Player obtained item:
+Cabin Key
+A small key. The word "Cabin" is scrawled on the attached tag.
+}
+
+FRKEY3
+{
+Player obtained item:
+Bronze key.
+A Bronze key. Looks like it's used in a house or other living area.
+}
+
+FRKEY4
+{
+Player obtained item:
+Kitchen Key
+The word "Kitchen" is messily engraved
+}
+
+FRBOARD
+{
+Player obtained item:
+Wooden Board
+A sturdy wooden board. It should support a person's weight.
+}
+
+FRSPADE
+{
+Player obtained item:
+Spade
+An old spade. Nothing unusual.
+}
+
+FRRCRYSTAL
+{
+Player obtained item:
+Red-crystal
+A Red-Crystal ornament.
+}
+
+FRGCRYSTAL
+{
+Player obtained item:
+Green-crystal
+A Green-Crystal ornament.
+}
+
+FRFUEL
+{
+Player obtained item:
+Fuel
+We could probably use this for the bus...
+}
+
+FREND
+{
+With the fuel, we were finally able to escape the forest.
+We will continue on, fighting where we can, and surviving...
+}
+
+CBSUBEND
+{
+Activating the train was simple stuff; thinking
+where to go next was the hard part. The fates
+decided for us as the power flickered out in
+the middle of our journey. Looks like we'd have
+to proceed on foot. As long as the power doesn't
+go back on while we walk, we should be alright...
+}
+
+CBSUBMANUAL
+{
+Player obtained item:
+Train Operation Manual
+A Train Operation Manual. We could probably use it back at the subway.
+}
+
+CBSUBKEY2
+{
+Player obtained item:
+Generic key
+The tag says "Maintenance area north".
+}  
+
+CBSUBKEY11
+{
+Player obtained item:
+Antique key
+The tag says "Outside maintenance area north".
+}
+
+CBTRACK
+{
+Player obtained item:
+Metal Beam
+This should suffice for fixing the broken track.
+}
+
+CBSUBDETON
+{
+Player obtained item:
+Detonator Switch
+A crude switch for a light explosive.
+}
+
+CBSUBKEY
+{
+Player obtained item:
+Rusty Key
+The word "Bathroom" is etched onto the metal.
+}
+
+CBSUBFUSE
+{
+Player obtained item:
+Large main fuse
+A large fuse. Used in circuitry.
+}
+
+CBSUBCRANK
+{
+Player obtained item:
+Square Ended Crank
+A crank. The end is moulded in the shape of a square.
+}
+
+CBSUBMANOPENER
+{
+Player obtained item:
+Manhole Opener
+A regular manhole opener.
+}
+
+CBSUBTRAINKEY
+{
+Player obtained item:
+Train cabin key
+A black key. The word "Cabin" is engraved.
+}
+
+CBSUBBOLT
+{
+Player obtained item:
+Bolt cutters
+An ordinary pair of bolt cutters. Used for cutting through metal.
+}
+
+CBCITYWIRES
+{
+Player obtained items:
+Wires
+Wires to connect an electrical supply.
+}
+
+CBCITYCROWBAR
+{
+Player obtained item:
+Crowbar
+A rusted old crowbar. Too corroded to be used as a weapon.
+}
+
+CBCITYWAREKEY
+{
+Player obtained item:
+Warehouse key
+A small set of keys. One of them has the word "Warehouse no.1" etched.
+}
+
+CBCITYLOCKEY
+{
+Player obtained item:
+Black Key
+A small black key. Says "Upstairs" on the tag.
+}
+
+CBLABKEYCARD
+{
+Player obtained item:
+Keycard
+A small plastic keycard. The Umbrella logo is printed.
+}
+
+CBLABKEYCARD2
+{
+Player obtained item:
+Keycard
+A small plastic keycard. The Umbrella logo is printed.
+}
+
+CBLABKEYCODE
+{
+It seems a keycard and a passcode are required to open the door on the left.
+}
+
+CBLABKEY
+{
+Player obtained item:
+Silver Key
+A Silver Key.
+}
+
+CBLABPASSCODE
+{
+You memorised the code.
+}
+
+CBCITYDUNGEONKEY
+{
+Player obtained item:
+Basement key
+A small set of keys. The word "Basement" is scrawled on the tag.
+}
+
+
+
+
+CBCITYSEWAGEKEY
+{
+Player obtained item:
+Sewage plant gate key
+Another set of keys. The words "Sewage gate north" are engraved.
+}
+
+CBCITYKEYBREAK
+{
+The key broke in the lock
+}
+
+CBCITYCHURCHKEY
+{
+Player obtained item:
+Cracked key
+A cracked, old key
+}
+
+CBCITYBATTERY
+{
+Player obtained item:
+Battery
+An ordinary chemical battery. About 10 inches long and 6 inches wide.
+}
+
+CBSHOTGUNVENT
+{
+There's something in the vent...
+}
+
+
+RECBGASDOOR
+{
+Someone has already broken down this door once. 
+...It shouldn't be much of a problem to break it down again.
+}
+
+RECBCARSTRT
+{
+You and a group of friends tried to escape the city via your car...
+However, you didn't take into effect that crusing through the streets 
+of a post apocolyptic city would render your car almost useless. 
+Finally, you ditch the car in the night, now having to trudge 
+along on foot in the city of the dead.
+}
+
+RECBNEWSSTART
+{
+Who in their right mind would dive into the lobby of a building who's 
+main doors have already been broken off by the undead hoarde you 
+are trying so desperatly to escape? Oh, that's right, you and your
+little group of survivors. While it gives you a second to catch your
+breath, the moans of the undead outside will quickly attract 
+bigger, nastier things ready to rip you apart.
+Have fun!
+}
+
+RECBDESP_WAREKEY
+{
+Player obtained item:
+Warehouse exit key
+Bronze key for the backdoor of the Warehouse.
+}
+
+RECBDESP_GATEKEY
+{
+Player obtained item:
+Gate key
+It appears to be a key for a gate.
+}
+
+RECBDESP_CHURCHKEY
+{
+Player obtained item:
+Church key
+It's a gate key - Raccoon Protestant Church is engraved.
+}
+
+RECBDESP_CAFEKEY
+{
+Player obtained item:
+Cafe key
+"Cafe - Eating area" - Presumably for the Cafe.
+}
+
+RECBDESP_END
+{
+With the zombie groans and monster howls echoing behind us, we slam the gate shut,
+seeking shelter in this Subway after narrowly slipping through the fingers of Death's
+icy grip.
+
+Little did we know, we were descending into a deeper depth of hell...
+}
+
+//RECB OBJECTIVE TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 0 128 0
+// This is the highlight color
+$color2 217 217 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+CBSUBOBJ1
+{
+Objective 1 complete:
+
+Drain water surrounding generator to re-activate
+power to the Secondary circuit system.
+}
+
+CBSUBOBJ2
+{
+Objective 2 complete:
+
+Gain access to the train cabin.
+}
+
+CBSUBOBJ3
+{
+Objective 3 complete:
+
+Re-activate power to the Primary circuit system.
+}
+
+CBCITYOBJ1
+{
+Objective 1 complete:
+Access the warehouse.
+}
+
+CBCITYOBJ2
+{
+Objective 2 complete:
+Gain access to the sewage plant.
+}
+
+//RECB ALL OBJECTIVES COMPLETE TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 0 128 0
+// This is the highlight color
+$color2 217 0 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 60
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+selectchar
+{
+Welcome to Resident Evil: Cold Blood - Beta 2
+
+
+Please select a character
+}
+
+CBSUBOBJLAST
+{
+Last objective complete:
+
+Activate subway-train to escape
+}
+
+
+Spec_Mode1
+{
+Locked Chase-Camera
+}
+
+Spec_Mode2
+{
+Free Chase-Camera
+}
+
+Spec_Mode3
+{
+Free-Look
+}
+
+Spec_Mode4
+{
+First Person
+}
+
+Spec_Mode5
+{
+Free Map Overview
+}
+
+Spec_Mode6
+{
+Chase Map Overview
+}
+
+Spec_NoTarget
+{
+No valid targets. Cannot switch to Chase-Camera Mode.
+}
+
+Spec_Help_Title
+{
+Spectator Mode
+}
+
+Spec_Help_Text
+{
+Use the following keys to change view styles:
+
+ FIRE1 - Chase next player
+ FIRE2 - Chase previous player
+ JUMP - Change view modes
+ USE - Change inset window mode
+ 
+ DUCK  - Enable spectator menu
+  
+In Overview Map Mode move around with:
+
+ MOVELEFT - move left
+ MOVERIGHT - move right
+ FORWARD - zoom in
+ BACK - zoom out
+ MOUSE - rotate around map/target
+}
+
+Spec_Slow_Motion
+{
+Slow Motion
+}
+
+Spec_Replay
+{
+Instant Replay
+}
+
+Spec_Auto
+{
+Auto
+}
+
+// Multiplayer Scoreboard
+Spec_Map
+{
+Map
+}
+
+Spectators
+{
+Spectators
+}
+
+Unassigned
+{
+Unassigned
+}
+
+TEAMS
+{
+TEAMS
+}
+
+PLAYERS
+{
+PLAYERS
+}
+
+CLASS
+{
+CLASS
+}
+
+SCORE
+{
+SCORE
+}
+
+DEATHS
+{
+DEATHS
+}
+
+LATENCY
+{
+PING
+}
+
+VOICE
+{
+VOICE
+}
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCEL
+}
+
+Mic_Volume
+{
+Mic Volume
+}
+
+Speaker_Volume
+{
+Speaker Volume
+}
+
+Voice_Properties
+{
+Voice Properties
+}
+
+Map_Description_not_available
+{
+Map Description not available.
+}
+
+Player
+{
+player
+}
+
+Player_plural
+{
+players
+}
+
+Muted
+{
+You have muted %s.
+}
+
+Unmuted
+{
+You have unmuted %s.
+}
+
+No_longer_hear_that_player
+{
+You will no longer hear that player speak.
+}
+
+OBS_NONE
+{
+Camera Options
+}
+
+OBS_CHASE_LOCKED
+{
+Locked Chase-Cam
+}
+
+OBS_CHASE_FREE
+{
+Free Chase-Cam
+}
+
+OBS_ROAMING
+{
+Roaming
+}
+
+OBS_IN_EYE
+{
+First Person
+}
+
+OBS_MAP_FREE
+{
+Free Overview
+}
+
+OBS_MAP_CHASE
+{
+Chase-Cam Overview
+}
+
+SPECT_OPTIONS
+{
+Options
+}
+
+CAM_OPTIONS
+{
+Camera Options
+}
+
+Spec_Duck
+{
+Press DUCK for Spectator Menu
+}
+
+Title_SelectYourTeam
+{
+Select Your Character
+}

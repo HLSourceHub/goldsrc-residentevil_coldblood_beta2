@@ -1,0 +1,9 @@
+IN CASE OF AUTOMATED HYDROLIC CONTROL FAILURE:
+
+Please read these instructions carefully as to avoid damage to the hydraulic pressurization or valve systems.
+
+In the event of a control failure, hydraulic doors and elevators can be operated in an emergency/manual mode.  A secondary control system has been made available to authorized personnel in case such a situation would arise.
+
+Operation of the system has been made as simplistic as possible to keep downtime to a minimum.  Two backup pumps run independently of the main system and are controlled by a pressure switch.  Because of this, you are only required to open the main valves as the backup system is kept isolated during normal operation.  If pressure is not restored to the system, it may be required to reset smaller check vales using the breaker system typically located near the main valves.  
+
+Use of this system by someone other than a trained technician can result in damage to the backup system or equipment.

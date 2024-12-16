@@ -1,0 +1,13 @@
+======================================
+Resident Evil : Cold Blood - Beta 2
+======================================
+
+Welcome to Resident Evil: Cold Blood - Beta 2
+
+Please select a character. You can bring up
+your character selection menu by setting your
+character menu key in "Options".
+
+==================================================
+==================================================
+

@@ -1,0 +1,15 @@
+Name: James Dyson
+Occupation: Mechanic
+Age: 27
+Special Item: Lighter
+
+Strengths:
+
+Carries a shotgun
+Moderately fast running speed
+Carries a flashlight
+
+Weaknesses:
+
+Vulnerable to damage
+

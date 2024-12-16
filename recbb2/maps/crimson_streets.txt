@@ -1,0 +1,15 @@
+============================
+Resident Evil : Cold Blood
+============================
+
+Streets
+
+
+Welcome to the Crimson Head mode of RE:CB Beta 2! Here player is pitted against player,
+zombie vs human. A player is picked at random to be the Crimson Head; the rest are your
+chosen character. The goal is simple: Hunt down the Crimson Head if you're human and hunt
+down the humans if you're the Crimson Head! Use your lives wisely, because once they're gone,
+you're out of the game.
+
+
+Happy hunting!

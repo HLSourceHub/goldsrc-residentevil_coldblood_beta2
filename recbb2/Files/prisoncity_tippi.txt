@@ -1,0 +1,8 @@
+Dear new workers,
+
+Be ware that the power box need to be in center of the elevator, or
+else it will probably make the elevator get stuck. This is because
+the power box heavy weight need to be in center of the elevator to balance
+the weight in order to not make it get stuck. If you are having trouble
+with it, try again by moving back down with the elevator, hopefully
+that will make the weight balance again.

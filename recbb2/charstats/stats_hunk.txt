@@ -1,0 +1,14 @@
+Name: USS Operative - Team Charlie
+Occupation: Soldier
+Age: Unknown
+Special Item: Lockpick
+
+Strengths:
+
+Carries an MP5 with one extra clip
+Is somewhat resistant to damage
+
+Weaknesses:
+
+Moderately slow running speed
+Does not carry a flashlight

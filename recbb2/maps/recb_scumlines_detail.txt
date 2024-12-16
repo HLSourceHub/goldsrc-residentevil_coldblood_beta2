@@ -1,0 +1,61 @@
+po_sewerwall	detail/Shootme/po_sewerwall_DETAIL	2.0	2.0
+po_sewerwall2	detail/Shootme/po_sewerwall2_DETAIL	2.0	2.0
+po_sewrwallwet	detail/Shootme/po_sewrwallwet_DETAIL	2.0	2.0
+DOOR06_0000	detail/Shootme/DOOR06_0000_DETAIL	1.0	1.0
+{GRID1	detail/Shootme/{GRID1_DETAIL	1.0	1.0
+po_sewerwl2tr	detail/Shootme/po_sewerwl2tr_DETAIL	1.0	1.0
+po_flrbunmtl	detail/Shootme/po_flrbunmtl_DETAIL	1.0	1.0
+po_pipewall	detail/Shootme/po_pipewall_DETAIL	1.0	1.0
+CRETE3_WALL02	detail/Shootme/CRETE3_WALL02_DETAIL	1.0	1.0
+C3A1_W1	detail/Shootme/C3A1_W1_DETAIL	2.0	2.0
+OUT_W5	detail/Shootme/OUT_W5_DETAIL	1.0	1.0
+po_sewerwall2	detail/Shootme/po_sewerwall2_DETAIL	1.0	1.0
+po_sewerceil	detail/Shootme/po_sewerceil_DETAIL	1.0	1.0
+po_flrbunker	detail/Shootme/po_flrbunker_DETAIL	1.0	1.0
+po_carpetblue	detail/Shootme/po_carpetblue_DETAIL	1.0	1.0
+
+C1A0_LABW7B	detail/Shootme/C1A0_LABW7B_DETAIL	1.0	1.0
+LAB1_BLUXFLR1B	detail/Shootme/LAB1_BLUXFLR1_DETAIL	2.0	2.0
+
+{GRID2	detail/Shootme/{GRID2_DETAIL	1.0	1.0
+po_rustmtlbrtu	detail/Shootme/po_rustmtlbrtu_DETAIL	1.0	1.0
+po_rustmtlbltu	detail/Shootme/po_rustmtlbltu_DETAIL	1.0	1.0
+po_rustmtltured	detail/Shootme/po_rustmtltured_DETAIL	1.0	1.0
+
+wallscratchtri2	detail/Shootme/wallscratchtri2_DETAIL	1.0	1.0
+{GATE	detail/Shootme/{GATE_DETAIL	1.0	1.0
+{FENCE	detail/Shootme/{FENCE_DETAIL	1.0	1.0
+po_doorbunker	detail/Shootme/po_doorbunker_DETAIL	1.0	1.0
+
+-0FIFTIES_C	detail/Shootme/-0FIFTIES_C_DETAIL	1.0	1.0
+-1FIFTIES_C	detail/Shootme/-0FIFTIES_C_DETAIL	1.0	1.0
+-2FIFTIES_C	detail/Shootme/-0FIFTIES_C_DETAIL	1.0	1.0
+
+po_wallbeige	detail/Shootme/po_wallbeige_DETAIL	1.0	1.0
+po_wallbunred	detail/Shootme/po_wallbunker_DETAIL	1.0	1.0
+po_wallbunker	detail/Shootme/po_wallbunker_DETAIL	1.0	1.0
+po_wallbunkcl	detail/Shootme/po_wallbunkcl_DETAIL	1.0	1.0
+po_wallmarble	detail/Shootme/po_wallmarble_DETAIL	1.0	1.0
+po_wallbunkcl	detail/Shootme/po_wallbunkcl_DETAIL	1.0	1.0
+C1A0_W3	detail/Shootme/C1A0_W3_DETAIL	1.0	1.0
+
+CA1X_C1A	detail/Shootme/CA1X_C1B_DETAIL	1.0	1.0
+CA1X_C1B	detail/Shootme/CA1X_C1B_DETAIL	1.0	1.0
+CA1X_C1C	detail/Shootme/CA1X_C1B_DETAIL	1.0	1.0
+CA1X_C1D	detail/Shootme/CA1X_C1B_DETAIL	1.0	1.0
+
+C3A1_GEAR2	detail/Shootme/C3A1_GEAR2_DETAIL	1.0	1.0
+C3A2B_REAC2B	detail/Shootme/C3A2B_REAC2B_DETAIL	1.0	1.0
+C3A2B_REAC1	detail/Shootme/C3A2B_REAC1_DETAIL	1.0	1.0
+
+C3A1B_W2	detail/Shootme/C3A1B_W2_DETAIL	1.0	1.0
+C3A1B_W1B	detail/Shootme/C3A1B_W1B_DETAIL	1.0	1.0
+C1A4_DOME2	detail/Shootme/C1A4_DOME2_DETAIL	1.0	1.0
+CA1X_W2	detail/Shootme/CA1X_W2_DETAIL	1.0	1.0
+C1A4_DOME	detail/Shootme/C1A4_DOME_DETAIL	1.0	1.0
+po_sewrwalldry	detail/Shootme/po_sewrwalldry_DETAIL	2.0	2.0
+po_sewerfloor	detail/Shootme/po_sewerfloor_DETAIL	2.0	2.0
+{GRATESTEP2	detail/Shootme/{GRATESTEP2_DETAIL	1.0	1.0
+wallscratch	detail/Shootme/wallscratch_DETAIL	1.0	1.0
+po_concretefl	detail/Shootme/po_concretefl_DETAIL	1.0	1.0
+C1A0_LABW7C	detail/Shootme/C1A0_LABW7C_DETAIL	1.0	1.0

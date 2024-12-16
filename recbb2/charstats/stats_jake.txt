@@ -1,0 +1,14 @@
+Name: Jake Phillips
+Occupation: Fireman
+Age: 32
+Special Item: Spanner
+
+Strengths:
+
+Extremely efficient with melee attacks
+Resistant to damage
+
+Weaknesses:
+
+Can not mix herbs
+Does not carry a flashlight
